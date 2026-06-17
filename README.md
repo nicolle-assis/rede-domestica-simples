@@ -1,4 +1,5 @@
-# 🖧 Projeto 01 - Rede Local Simples com Switch
+# 🖧 Projeto 01 - Rede Local Simples com Switch ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=%23000000)
+
 
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue)
@@ -106,4 +107,5 @@ Estudante de Redes de Computadores
 * GitHub: https://github.com/nicolle-assis
 
 ## 📄 Licença
-MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+License MIT
